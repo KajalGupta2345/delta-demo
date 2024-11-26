@@ -39,3 +39,9 @@ global means hm apni system ke andr jitni v jgh, git use kr rhe hai wha pr hm yh
 modified -> add -> staged -> commit
 
 # Commit Command -The git commit command is used to save changes to the local repository. Each commit represents a snapshot of the project at a specific point in time, allowing you to track and manage changes effectively. Commits include metadata such as the author, timestamp, and a message describing the changes.
+
+# push Command - Git push allows us to transfer files from the local repository to remote repository hosting services like GitHub, GitLab, etc. Other developers who want to work on the files can access them after being uploaded to a remote repository.
+
+origin means vo location jha github ki repo hai.
+
+# init Command - The git init command is used to create a new Git repository. 
